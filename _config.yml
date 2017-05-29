@@ -16,3 +16,5 @@ markdown: kramdown
 
 # Eevee Admin
 eevee: 0.0.2
+
+theme: jekyll-theme-hacker
